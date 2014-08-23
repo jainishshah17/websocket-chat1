@@ -1,0 +1,12 @@
+2014-08-21 12:32:16,995 - [INFO] - from play in main 
+Application started (Prod)
+
+2014-08-21 15:15:35,523 - [INFO] - from play in main 
+Application started (Prod)
+
+2014-08-21 15:15:36,241 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-08-21 15:18:11,621 - [INFO] - from play in New I/O worker #4 
+Starting application default Akka system.
+

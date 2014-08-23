@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging C:\play-2.2.4\samples\java\websocket-chat\target\scala-2.10\websocket-chat_2.10-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	models\Robot.java[0m
+[0m[[0mdebug[0m] [0m	  C:\play-2.2.4\samples\java\websocket-chat\app\models\Robot.java[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  C:\play-2.2.4\samples\java\websocket-chat\conf\routes[0m
+[0m[[0mdebug[0m] [0m	controllers\Application.java[0m
+[0m[[0mdebug[0m] [0m	  C:\play-2.2.4\samples\java\websocket-chat\app\controllers\Application.java[0m
+[0m[[0mdebug[0m] [0m	models\ChatRoom.java[0m
+[0m[[0mdebug[0m] [0m	  C:\play-2.2.4\samples\java\websocket-chat\app\models\ChatRoom.java[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  C:\play-2.2.4\samples\java\websocket-chat\conf\application.conf[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

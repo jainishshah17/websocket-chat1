@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.4\samples\java\websocket-chat\conf\application.conf,C:\play-2.2.4\samples\java\websocket-chat\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\play-2.2.4\samples\java\websocket-chat\conf\routes,C:\play-2.2.4\samples\java\websocket-chat\target\scala-2.10\classes\routes)[0m
