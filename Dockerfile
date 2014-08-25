@@ -15,9 +15,9 @@ ADD http://downloads.typesafe.com/play/$PLAY_VERSION/play-$PLAY_VERSION.zip /tmp
 RUN (cd /opt && unzip /tmp/play-$PLAY_VERSION.zip && rm -f /tmp/play-$PLAY_VERSION.zip)
 
 
-VOLUME ["/opt/workspace"]
-WORKDIR /opt/workspace
+VOLUME ["/opt/play-2.2.4/samples/java/websocket-chat"]
+WORKDIR /opt/play-2.2.4/samples/java/websocket-chat
 EXPOSE 9000 
 
 
-CMD ["/bin/bash"]
+CMD ["play start"]
